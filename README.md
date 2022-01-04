@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dharanidhar Raja
+- 👋 Hi, I’m @Dharanidhar1482
 - 👀 I’m interested in ... codeing
 - 🌱 I’m currently learning ... c, c++
 - 💞️ I’m looking to collaborate on ... a AI projects with the superioir to fetch some knowledge
