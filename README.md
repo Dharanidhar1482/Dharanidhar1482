@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rpdharanidhar
 - 👀 I’m interested in ... codeing
 - 🌱 I’m currently learning ... c, c++ ,python
-- 💞️ I’m looking to collaborate on ... a AI projects with the superioir to fetch some knowledge
+- 💞️ I’m looking to collaborate on ... a AI, ML projects with the superioir to fetch some knowledge
 - 📫 How to reach me ... rpdharanidhar@gmail.com , dharanirp2002@gmail.com
 
 <!---
