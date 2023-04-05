@@ -1,9 +1,13 @@
 Hi 👋 This is DHaranidhar
 Student 👨‍🎓
 🌍  I'm from India
+
 ✉️  You can contact me : rpdharanidhar@gmail.com , dharanidhar.cs20@bitsathy.ac.in
+
 🧠  I'm learning a DevOps, Linux Administration
+
 🤝  I'm open to collaborating on Web Application Projects
+
 💼 Hire me! [Resume]([url](https://github.com/rpdharanidhar/rpdharanidhar/files/11155810/Dharanidhar_Resume.pdf)) [Portfolio](https://github.com/rpdharanidhar.github.io)
 
 
