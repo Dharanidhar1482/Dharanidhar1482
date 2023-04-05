@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @rpdharanidhar
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... c, c++ ,python
-- 💞️ I’m looking to collaborate on ... a AI, ML projects with the superioir to fetch some knowledge
-- 📫 How to reach me ... rpdharanidhar@gmail.com , dharanirp2002@gmail.com
+Hi 👋 This is DHaranidhar
+Student 👨‍🎓
+🌍  I'm from India
+✉️  You can contact me : rpdharanidhar@gmail.com , dharanidhar.cs20@bitsathy.ac.in
+🧠  I'm learning a DevOps, Linux Administration
+🤝  I'm open to collaborating on Web Application Projects
+💼 Hire me! [Resume]([url](https://github.com/rpdharanidhar/rpdharanidhar/files/11155810/Dharanidhar_Resume.pdf)) [Portfolio](https://github.com/rpdharanidhar.github.io)
 
-<!---
-rpdharanidhar/rpdharanidhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![polars_github_logo_rect_dark_name](https://user-images.githubusercontent.com/79526949/229997965-a1ed9feb-7777-405e-8160-cbff34ca780d.svg)
+[Dharanidhar_Resume.pdf](https://github.com/rpdharanidhar/rpdharanidhar/files/11155810/Dharanidhar_Resume.pdf)
