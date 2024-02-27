@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Dharanidhar from Erode currently residing and studying in Bannari Amman Institute of Technology - Sathyamangalam<br><br>- 🔭 I’m currently working as a Jr. Software Developer in Hackathon Lab - Bannari amman Institute of Technology<br>- 📚 I'm currently learning DevOps and AWS CLoud services<br>- ⚡ In my free time I Would like to play mobile and PC Games...</p>
+<p align="left">I'm Dharanidhar from Erode currently residing and studying in Bannari Amman Institute of Technology - Sathyamangalam<br><br>- 🔭 I’m currently working as a Jr. Software Developer in Hackathon Lab - Bannari amman Institute of Technology<br>- 📚 I'm currently learning DevOps, AWS and Oracle CLoud services<br>- ⚡ In my free time I Would like to play mobile and PC Games...</p>
 
 ###
 
